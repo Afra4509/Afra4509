@@ -1,8 +1,9 @@
 <div align="center">
 
-<!-- Clean Modern Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Afra%20Fadhma%20Dinata&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-
+<div align="center">
+<!-- Dynamic Header with Gradient Animation -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=AFRA%20FADHMA%20DINATA&fontSize=70&color=0:667eea,50:764ba2,100:f093fb&fontColor=ffffff&stroke=ffffff&strokeWidth=2&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Innovation%20Creator&descSize=18&descAlignY=75" width="100%"/>
+<!-- Sophisticated Typing Animation -->
 <!-- Professional Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Full+Stack+Developer+%26+AI+Engineer;Building+Scalable+Digital+Solutions;Innovation+Through+Technology" alt="Professional Title"/>
 
