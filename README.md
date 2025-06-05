@@ -139,22 +139,19 @@ cat("🚀 Building intelligent systems that bridge the physical and digital worl
 
 <div align="center">
 
-<!-- GitHub Stats Cards - Enlarged -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Afra4509&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=⚡%20Coding%20Analytics&border_radius=15&count_private=true&include_all_commits=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afra4509&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&custom_title=🚀%20Language%20Distribution&border_radius=15&card_width=400"/>
-</p>
-
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Afra4509&theme=algolia&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=15&stroke=00D9FF&dates=FFFFFF&sideLabels=00D9FF&sideNums=FFFFFF"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=Afra4509&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=⚡%20Coding%20Analytics&border_radius=15"/>
+    </td>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afra4509&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&custom_title=🚀%20Language%20Distribution&border_radius=15"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Enhanced Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afra4509&custom_title=📊%20Development%20Activity%20Timeline&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=1A1B27&area=true&hide_border=true&radius=15&height=400" width="100%"/>
-
-<!-- GitHub Contribution Calendar -->
-<img src="https://github-readme-stats.vercel.app/api?username=Afra4509&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=15&line_height=30&card_width=800&rank_icon=github" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afra4509&custom_title=📊%20Development%20Activity%20Timeline&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=1A1B27&area=true&hide_border=true&radius=15" width="100%"/>
 
 </div>
 
