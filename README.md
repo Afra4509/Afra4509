@@ -1,8 +1,6 @@
 <div align="center">
 
 <!-- Dynamic Header with Particle Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,28,35,42&amp;height=220&amp;section=header&amp;text=Afra%20Fadhma%20Dinata&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Machine%20Learning%20Engineer%20%26%20IoT%20Developer&amp;descSize=22&amp;descAlignY=55"/>
-
 
 <!-- Neon Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4b80-b561-0d28506553ee.gif" width="100%">
