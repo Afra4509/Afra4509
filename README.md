@@ -162,27 +162,6 @@ cat("🚀 Building intelligent systems that bridge the physical and digital worl
 
 ---
 
-<div align="center">
-
-
-
-### 🎼 **Programming Moods**
-```javascript
-const codingPlaylist = {
-  deepLearning: "Ambient Electronic 🧠",
-  dataAnalysis: "Lo-fi Beats 📊", 
-  hardwareHacking: "Synthwave 🔧",
-  debugging: "Classical Focus 🐛",
-  deployment: "Upbeat Tech 🚀"
-};
-```
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌐 **Connect & Collaborate**
 
 ### **Professional Network**
