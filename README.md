@@ -276,9 +276,6 @@ thermodynamics = {
 
 <div align="center">
 
-### 🎮 **Smart Learning Platform**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Afra4509&repo=dolanan-cerdas-smanike&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_radius=15)](https://github.com/Afra4509/dolanan-cerdas-smanike)
 
 **Interactive Educational Gaming System** | `Machine Learning` `Data Analytics` `Web Technologies` `Smart Algorithms`
 
