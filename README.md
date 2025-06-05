@@ -276,6 +276,9 @@ thermodynamics = {
 
 <div align="center">
 
+### 🎮 **Smart Learning Platform**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Afra4509&repo=dolanan-cerdas-smanike&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_radius=15)](https://github.com/Afra4509/dolanan-cerdas-smanike)
 
 **Interactive Educational Gaming System** | `Machine Learning` `Data Analytics` `Web Technologies` `Smart Algorithms`
 
@@ -283,6 +286,30 @@ thermodynamics = {
 
 </div>
 
+---
+
+<div align="center">
+
+## 🎵 **Coding Soundtrack**
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0D1117&border_color=00D9FF)](https://open.spotify.com/user/i4kfnw7moy6h19bmrkwliqcnn?si=HnCn74niRveE7TLN-Qh6mg)
+
+*Current coding vibes 🎧 | Music that fuels innovation*
+
+### 🎼 **Programming Moods**
+```javascript
+const codingPlaylist = {
+  deepLearning: "Ambient Electronic 🧠",
+  dataAnalysis: "Lo-fi Beats 📊", 
+  hardwareHacking: "Synthwave 🔧",
+  debugging: "Classical Focus 🐛",
+  deployment: "Upbeat Tech 🚀"
+};
+```
+
+</div>
+
+---
 
 <div align="center">
 
@@ -341,6 +368,9 @@ thermodynamics = {
 [![GitHub followers](https://img.shields.io/github/followers/Afra4509?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/Afra4509?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Afra4509?label=TOTAL%20STARS&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/Afra4509)
 
+### **🏅 Development Activity**
+
+<a href="https://wakatime.com/@018e4f93-0040-4a77-ab3c-6d37b0c2c5e8"><img src="https://wakatime.com/badge/user/018e4f93-0040-4a77-ab3c-6d37b0c2c5e8.svg?style=for-the-badge" alt="Total coding time" /></a>
 
 ### **💭 Tech Philosophy**
 
