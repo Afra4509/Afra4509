@@ -288,11 +288,7 @@ thermodynamics = {
 
 <div align="center">
 
-## 🎵 **Coding Soundtrack**
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0D1117&border_color=00D9FF)](https://open.spotify.com/user/i4kfnw7moy6h19bmrkwliqcnn?si=HnCn74niRveE7TLN-Qh6mg)
-
-*Current coding vibes 🎧 | Music that fuels innovation*
 
 ### 🎼 **Programming Moods**
 ```javascript
@@ -357,9 +353,7 @@ const codingPlaylist = {
 </div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Afra4509&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Afra4509?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/Afra4509?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Afra4509?label=TOTAL%20STARS&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/Afra4509)
+
 ---
 
 <div align="center">
@@ -367,7 +361,9 @@ const codingPlaylist = {
 ## 📊 **Performance Metrics**
 
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Afra4509&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Afra4509?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/Afra4509?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Afra4509?label=TOTAL%20STARS&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/Afra4509)
 
 ### **💭 Tech Philosophy**
 
