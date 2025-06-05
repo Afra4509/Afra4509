@@ -3,11 +3,6 @@
 <!-- Dynamic Header with Particle Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,28,35,42&amp;height=220&amp;section=header&amp;text=Afra%20Fadhma%20Dinata&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Machine%20Learning%20Engineer%20%26%20IoT%20Developer&amp;descSize=22&amp;descAlignY=55"/>
 
-<!-- Enhanced Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=🤖+ML+Engineer+%7C+Computer+Vision+Specialist;🔬+Arduino+%7C+ESP32+%7C+IoT+Developer;💡+Data+Science+%7C+Statistical+Computing;⚡+Transforming+Data+Into+Intelligence" alt="Typing Animation"/>
-
-<!-- Cool Profile GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450">
 
 <!-- Neon Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4b80-b561-0d28506553ee.gif" width="100%">
