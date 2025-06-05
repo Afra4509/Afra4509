@@ -1,16 +1,10 @@
 <div align="center">
 
 <!-- Dynamic Header with Particle Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,28,35,42&amp;height=220&amp;section=header&amp;text=Afra%20Fadhma%20Dinata&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Machine%20Learning%20Engineer%20%26%20IoT%20Developer&amp;descSize=22&amp;descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,35,42&height=220&section=header&text=Afra%20Fadhma%20Dinata&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%26%20IoT%20Developer&descSize=22&descAlignY=55"/>
 
 <!-- Enhanced Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=🤖+ML+Engineer+%7C+Computer+Vision+Specialist;🔬+Arduino+%7C+ESP32+%7C+IoT+Developer;💡+Data+Science+%7C+Statistical+Computing;⚡+Transforming+Data+Into+Intelligence" alt="Typing Animation"/>
-
-<!-- Cool Profile GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450">
-
-<!-- Neon Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4b80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
@@ -102,8 +96,6 @@ cat("🚀 Building intelligent systems that bridge the physical and digital worl
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-
 ## 🛠️ **Technology Arsenal**
 
 ### **Core Programming Languages**
@@ -141,8 +133,6 @@ cat("🚀 Building intelligent systems that bridge the physical and digital worl
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
 ## 📈 **Analytics & Insights Dashboard**
 
 </div>
@@ -168,8 +158,6 @@ cat("🚀 Building intelligent systems that bridge the physical and digital worl
 ---
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
 
 ## 🎯 **Featured Projects Portfolio**
 
@@ -302,8 +290,6 @@ thermodynamics = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
 ## 🎵 **Coding Soundtrack**
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0D1117&border_color=00D9FF)](https://open.spotify.com/user/i4kfnw7moy6h19bmrkwliqcnn?si=HnCn74niRveE7TLN-Qh6mg)
@@ -327,8 +313,6 @@ const codingPlaylist = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
-
 ## 🌐 **Connect & Collaborate**
 
 ### **Professional Network**
@@ -350,28 +334,23 @@ const codingPlaylist = {
 <table align="center">
 <tr>
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
-<strong>Machine Learning</strong><br>
+<strong>🧠 Machine Learning</strong><br>
 <em>AI model development</em>
 </td>
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><br>
-<strong>Computer Vision</strong><br>
+<strong>👁️ Computer Vision</strong><br>
 <em>Image processing systems</em>
 </td>
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
-<strong>IoT Development</strong><br>
+<strong>🔧 IoT Development</strong><br>
 <em>Smart embedded systems</em>
 </td>
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
-<strong>Data Analytics</strong><br>
+<strong>📊 Data Analytics</strong><br>
 <em>Statistical insights</em>
 </td>
 <td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
-<strong>Research</strong><br>
+<strong>🔬 Research</strong><br>
 <em>Innovation projects</em>
 </td>
 </tr>
@@ -383,8 +362,6 @@ const codingPlaylist = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-
 ## 📊 **Performance Metrics**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Afra4509&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
@@ -393,9 +370,7 @@ const codingPlaylist = {
 
 ### **🏅 Development Activity**
 
-<!--START_SECTION:waka-->
 <a href="https://wakatime.com/@018e4f93-0040-4a77-ab3c-6d37b0c2c5e8"><img src="https://wakatime.com/badge/user/018e4f93-0040-4a77-ab3c-6d37b0c2c5e8.svg?style=for-the-badge" alt="Total coding time" /></a>
-<!--END_SECTION:waka-->
 
 ### **💭 Tech Philosophy**
 
@@ -406,22 +381,18 @@ const codingPlaylist = {
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"><br>
 <strong>25+ ML Projects</strong><br>
 <em>Production deployed</em>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"><br>
 <strong>95%+ Accuracy</strong><br>
 <em>Model performance</em>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"><br>
 <strong>IoT Systems</strong><br>
 <em>Hardware solutions</em>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"><br>
 <strong>Data Insights</strong><br>
 <em>Analytics expertise</em>
 </td>
@@ -442,29 +413,21 @@ const codingPlaylist = {
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-<br>
 <strong>🧠 Intelligence</strong>
 <br>
 <em>Data-driven solutions</em>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
-<br>
 <strong>🔧 Innovation</strong>
 <br>
 <em>Hardware meets software</em>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
-<br>
 <strong>📊 Precision</strong>
 <br>
 <em>Statistical excellence</em>
 </td>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-<br>
 <strong>🤝 Collaboration</strong>
 <br>
 <em>Building together</em>
@@ -477,7 +440,5 @@ const codingPlaylist = {
 ### ✨ *"In machine learning we trust, in data we find truth"* ✨
 
 **🌟 Bridging the gap between data and intelligence | Engineered with 💙 by [Afra Fadhma Dinata](https://github.com/Afra4509) 🌟**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4b80-b561-0d28506553ee.gif" width="100%">
 
 </div>
