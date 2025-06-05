@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Dynamic Header with Particle Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,28,35,42&amp;height=220&amp;section=header&amp;text=AEFERATECH&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Machine%20Learning%20Engineer%20%26%20IoT%20Developer&amp;descSize=22&amp;descAlignY=55"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,28,35,42&amp;height=220&amp;section=header&amp;text=AEFERATECH&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Machine%20Learning%20Engineer%20%26%20IoT%20Developer&amp;descSize=22&amp;descAlignY=55](https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=AEFERA%20TECH&animation=fadeIn&textBg=false)"/>
 
 
 <!-- Neon Separator -->
