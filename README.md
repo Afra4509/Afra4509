@@ -356,19 +356,18 @@ const codingPlaylist = {
 
 </div>
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Afra4509&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Afra4509?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/Afra4509?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Afra4509?label=TOTAL%20STARS&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/Afra4509)
 ---
 
 <div align="center">
 
 ## 📊 **Performance Metrics**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Afra4509&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Afra4509?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/Afra4509?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Afra4509?label=TOTAL%20STARS&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/Afra4509)
 
-### **🏅 Development Activity**
 
-<a href="https://wakatime.com/@018e4f93-0040-4a77-ab3c-6d37b0c2c5e8"><img src="https://wakatime.com/badge/user/018e4f93-0040-4a77-ab3c-6d37b0c2c5e8.svg?style=for-the-badge" alt="Total coding time" /></a>
 
 ### **💭 Tech Philosophy**
 
