@@ -1,6 +1,7 @@
-<div align="center">
 
+<div align="center">
 <!-- Dynamic Header with Particle Effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,35,42&height=220&section=header&text=AEFERATECH&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%26%20IoT%20Developer&descSize=22&descAlignY=55"/>
 
 <!-- Neon Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4b80-b561-0d28506553ee.gif" width="100%">
