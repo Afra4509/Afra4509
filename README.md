@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Dynamic Header with Particle Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,35,42&height=220&section=header&text=Afra%20Fadhma%20Dinata&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%26%20IoT%20Developer&descSize=22&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,28,35,42&amp;height=220&amp;section=header&amp;text=Afra%20Fadhma%20Dinata&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Machine%20Learning%20Engineer%20%26%20IoT%20Developer&amp;descSize=22&amp;descAlignY=55"/>
+
+<!-- URL panjang diperbaiki -->
+<img src="https://camo.githubusercontent.com/cc1373220ae608c38b62933d22949c3e25d64d9c098c2cb74e6f9d3d527eabed/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d31322c32302c32382c33352c3432266865696768743d3232302673656374696f6e3d68656164657226746578743d41667261253230466164686d6125323044696e61746126666f6e7453697a653d353026666f6e74436f6c6f723d66666626616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333526646573633d4d616368696e652532304c6561726e696e67253230456e67696e656572253230253236253230496f54253230446576656c6f706572266465736353697a653d32322664657363416c69676e593d3535" />
 
 <!-- Enhanced Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=🤖+ML+Engineer+%7C+Computer+Vision+Specialist;🔬+Arduino+%7C+ESP32+%7C+IoT+Developer;💡+Data+Science+%7C+Statistical+Computing;⚡+Transforming+Data+Into+Intelligence" alt="Typing Animation"/>
