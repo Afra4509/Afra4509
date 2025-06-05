@@ -3,8 +3,6 @@
 <!-- Dynamic Header with Particle Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&amp;height=300&amp;color=gradient&amp;text=AEFERA%20TECH&amp;animation=fadeIn&amp;textBg=false"/>
 
-<!-- Enhanced Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=🤖+ML+Engineer+%7C+Computer+Vision+Specialist;🔬+Arduino+%7C+ESP32+%7C+IoT+Developer;💡+Data+Science+%7C+Statistical+Computing;⚡+Transforming+Data+Into+Intelligence" alt="Typing Animation"/>
 
 </div>
 
@@ -403,10 +401,7 @@ const codingPlaylist = {
 
 ---
 
-<div align="center">
 
-<!-- Modern Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,35,42&height=150&section=footer&animation=fadeIn"/>
 
 ### 🚀 **Thanks for Visiting My Tech Lab!**
 
@@ -440,5 +435,10 @@ const codingPlaylist = {
 ### ✨ *"In machine learning we trust, in data we find truth"* ✨
 
 **🌟 Bridging the gap between data and intelligence | Engineered with 💙 by [Afra Fadhma Dinata](https://github.com/Afra4509) 🌟**
+
+<div align="center">
+
+<!-- Modern Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,35,42&height=150&section=footer&animation=fadeIn"/>
 
 </div>
