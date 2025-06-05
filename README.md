@@ -3,9 +3,6 @@
 <!-- Dynamic Header with Particle Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&amp;height=300&amp;color=gradient&amp;text=AEFERA%20TECH&amp;animation=fadeIn&amp;textBg=false"/>
 
-<!-- Enhanced Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=🤖+ML+Engineer+%7C+Computer+Vision+Specialist;🔬+Arduino+%7C+ESP32+%7C+IoT+Developer;💡+Data+Science+%7C+Statistical+Computing;⚡+Transforming+Data+Into+Intelligence" alt="Typing Animation"/>
-
 </div>
 
 ---
