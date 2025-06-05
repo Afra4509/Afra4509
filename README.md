@@ -429,11 +429,10 @@ const codingPlaylist = {
 
 ### ✨ *"In machine learning we trust, in data we find truth"* ✨
 
-**🌟 Bridging the gap between data and intelligence | Engineered with 💙 by [Afra Fadhma Dinata](https://github.com/Afra4509) 🌟**
+
 
 <div align="center">
 
-<!-- Modern Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,35,42&height=150&section=footer&animation=fadeIn"/>
+
 
 </div>
