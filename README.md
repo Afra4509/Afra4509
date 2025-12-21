@@ -1,144 +1,177 @@
-# Afra Fadhma Dinata
+# SNBT Dashboard 2026 🎯
 
-<div align="center">
-  
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AEFERA%20TECH&animation=fadeIn&textBg=false&fontSize=40&fontColor=fff)](https://github.com/Afra4509)
+Dashboard profesional, modern, dan interaktif untuk memantau progress belajar & perkembangan skor Try Out SNBT hingga 21 April 2026.
 
-## 🌟 ML Engineer & IoT Developer
-*Where Data Meets Intelligence & Hardware Meets Innovation*
+![Next.js](https://img.shields.io/badge/Next.js-16.1-black?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?style=for-the-badge&logo=tailwind-css)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afra-fadhma-dinata)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afrafadmadinata@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/risolkecoa)
+## 🌟 Fitur Utama
 
-</div>
+### 📊 Dashboard Utama
+- Ringkasan lengkap progress belajar
+- Progress bar animatif untuk visualisasi kemajuan
+- Motivational quotes dinamis untuk meningkatkan semangat
+- Statistik real-time: Total minggu, progress keseluruhan, rata-rata skor, dan streak belajar
 
----
+### 📅 Jadwal Belajar SNBT (Weekly Planner)
+- Jadwal mingguan terstruktur sampai 21 April 2026
+- Kategori pembelajaran: TPS, Literasi, dan Campuran
+- Tracking 7 subtest SNBT:
+  - Penalaran Umum
+  - Pengetahuan & Pemahaman Umum
+  - Pemahaman Bacaan & Menulis
+  - Pengetahuan Kuantitatif
+  - Literasi Bahasa Indonesia
+  - Literasi Bahasa Inggris
+  - Penalaran Matematika
+- Status otomatis: Not Started, In Progress, Done
 
-## 👨‍💻 About Me
+### 📝 Tracker Try Out SNBT
+- Input data Try Out dari berbagai platform:
+  - TOBK GO
+  - Pahamfy
+  - SainSin
+  - Platform lainnya
+- Auto-calculate total score
+- Tracking skor per subtest
+- Catatan evaluasi untuk setiap Try Out
+- Visualisasi gap antara skor saat ini dan target
 
-```r
-# Professional Profile
-developer <- list(
-  name = "Afra Fadhma Dinata",
-  location = "Indonesia 🇮🇩",
-  role = "ML Engineer & IoT Developer",
-  
-  expertise = c(
-    "🧠 Machine Learning & AI",
-    "👁️ Computer Vision Systems", 
-    "📊 Data Science & Analytics",
-    "🔧 IoT & Embedded Systems",
-    "📈 Statistical Computing"
-  ),
-  
-  philosophy = "Code with precision, innovate with purpose 🎯"
-)
+### 📈 Grafik & Visualisasi Data Interaktif
+- **Line Chart**: Perkembangan skor Try Out dari waktu ke waktu
+- **Bar Chart**: Perbandingan rata-rata skor per subtest
+- **Radar Chart**: Analisis kekuatan & kelemahan per subtest
+- Fitur filter per platform
+- Hover tooltips informatif
+- Animasi smooth dan responsif
+
+### 🗓️ Kalender & Habit Tracker
+- Kalender visual untuk tracking aktivitas belajar
+- Daily habit tracker:
+  - 📚 Belajar hari ini
+  - ✍️ Latihan soal
+  - 🔍 Review kesalahan
+- Streak counter untuk memotivasi konsistensi
+- Visual indicators untuk hari-hari produktif
+
+## 🎨 Desain & UI/UX
+
+- ✨ Modern, clean, dan profesional
+- 🌓 Dark mode & Light mode support
+- 📱 Fully responsive (mobile, tablet, desktop)
+- 🎭 Smooth animations dan transitions
+- 🎯 Fokus pada kenyamanan mata dan user experience
+- 🔵 Color scheme: Blue & Gray modern
+
+## 🛠️ Teknologi
+
+- **Framework**: Next.js 16.1 dengan App Router
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS 4.0
+- **Charts**: Recharts untuk visualisasi data
+- **Icons**: Lucide React
+- **State Management**: Local Storage + React Hooks
+- **Deployment**: GitHub Pages
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js 20+ 
+- npm atau yarn
+
+### Installation
+
+```bash
+# Clone repository
+git clone https://github.com/Afra4509/Afra4509.git
+cd Afra4509
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
 ```
 
-> *Developing intelligent solutions that combine machine learning, computer vision, and IoT to solve real-world problems with precision and innovation.*
+Buka [http://localhost:3000](http://localhost:3000) di browser untuk melihat dashboard.
 
-### 🎯 Current Focus
-- 🔬 Advanced Computer Vision
-- 🌐 IoT Smart Systems  
-- 📊 Predictive Analytics
-- 🤖 Edge AI Deployment
+### Build untuk Production
 
----
+```bash
+npm run build
+```
 
-## 🛠️ Tech Stack
+Output akan berada di folder `out/`.
 
-### Programming Languages
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 📦 Struktur Proyek
 
-### Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+```
+.
+├── app/                    # Next.js App Router
+│   ├── layout.tsx         # Root layout dengan metadata
+│   ├── page.tsx           # Main page dengan semua fitur
+│   └── globals.css        # Global styles
+├── components/            # React components
+│   ├── DashboardOverview.tsx
+│   ├── WeeklyPlanner.tsx
+│   ├── TryOutTracker.tsx
+│   ├── Charts.tsx
+│   ├── CalendarTracker.tsx
+│   ├── Header.tsx
+│   └── TabNavigation.tsx
+├── hooks/                 # Custom React hooks
+│   ├── useLocalStorage.ts
+│   └── useTheme.ts
+├── lib/                   # Utilities dan helpers
+│   ├── utils.ts
+│   └── initialData.ts
+├── types/                 # TypeScript type definitions
+│   └── index.ts
+└── public/               # Static assets
 
-### IoT & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=Espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+```
 
-### Development Tools
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+## 💾 Data Persistence
 
----
+Dashboard menggunakan **Local Storage** untuk menyimpan data:
+- Try Out results
+- Weekly schedules
+- Habit tracking
+- User preferences
 
-## 📊 GitHub Statistics
+Data tersimpan di browser dan tidak akan hilang saat refresh.
 
-<div align="center">
+## 🎯 Roadmap & Future Features
 
-<table>
-  <tr>
-    <td>
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=Afra4509&show_icons=true&theme=algolia&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=⚡%20GitHub%20Stats"/>
-    </td>
-    <td>
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afra4509&layout=compact&theme=algolia&hide_border=true&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
-    </td>
-  </tr>
-</table>
+- [ ] Export data ke PDF/Excel
+- [ ] Backend integration (Firebase/Supabase)
+- [ ] Multi-user support dengan authentication
+- [ ] Advanced analytics dan predictions
+- [ ] Mobile app (React Native)
+- [ ] Notifikasi dan reminders
+- [ ] Sharing progress ke social media
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afra4509&theme=algolia&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+## 📝 License
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Afra4509&custom_title=📊%20Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=1A1B27&area=true&hide_border=true)
+MIT License - feel free to use this project for your SNBT preparation!
 
-</div>
+## 🤝 Contributing
 
----
+Contributions, issues, and feature requests are welcome!
 
-## 🏆 Achievements
+## 👨‍💻 Author
 
-- 🥇 **30+ ML Models** deployed in production
-- 📊 **Advanced Analytics** expertise with R & Python
-- 🔧 **IoT Systems** with 99.9% uptime reliability
-- 👁️ **Computer Vision** models with >95% accuracy
-- 🌐 **Embedded Solutions** for smart automation systems
-
----
-
-## 🤝 Let's Collaborate
-
-I'm always interested in collaborating on innovative projects involving:
-
-| 🧠 Machine Learning | 👁️ Computer Vision | 🔧 IoT Development | 📊 Data Analytics | 🔬 Research |
-|:------------------:|:-----------------:|:----------------:|:---------------:|:-----------:|
-| AI model development | Image processing | Smart embedded systems | Statistical insights | Innovation projects |
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afra-fadhma-dinata)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afrafadmadinata@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afra4509)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/risolkecoa)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/afrafadhma)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/i4kfnw7moy6h19bmrkwliqcnn)
-
-</div>
+**Afra Fadhma Dinata**
+- GitHub: [@Afra4509](https://github.com/Afra4509)
+- LinkedIn: [Afra Fadhma Dinata](https://linkedin.com/in/afra-fadhma-dinata)
 
 ---
 
 <div align="center">
 
-*"Building intelligent systems that bridge the physical and digital worlds"* 🚀
+**Dibuat dengan ❤️ untuk kesuksesan SNBT 2026**
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=Afra4509&color=00D9FF&style=for-the-badge&label=Profile%20Views)](https://github.com/Afra4509)
+*Konsisten adalah kunci kesuksesan! 💪*
 
 </div>
