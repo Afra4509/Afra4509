@@ -167,7 +167,7 @@ export default function TryOutTracker({ tryOuts, onAddTryOut, onDeleteTryOut }: 
       <div className="space-y-4 max-h-[500px] overflow-y-auto pr-2">
         {tryOuts.length === 0 ? (
           <p className="text-center text-gray-500 dark:text-gray-400 py-8">
-            Belum ada data Try Out. Klik "Tambah Try Out" untuk mulai tracking!
+            Belum ada data Try Out. Klik &quot;Tambah Try Out&quot; untuk mulai tracking!
           </p>
         ) : (
           tryOuts.map((tryOut) => (

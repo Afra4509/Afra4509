@@ -1,6 +1,6 @@
 'use client';
 
-import { TryOut, DashboardStats } from '@/types';
+import { TryOut } from '@/types';
 import { calculateProgress, getRandomQuote, getDaysUntilTarget } from '@/lib/utils';
 import { TrendingUp, Target, Calendar, Award } from 'lucide-react';
 

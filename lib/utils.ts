@@ -1,4 +1,4 @@
-import { TryOut, WeeklySchedule, HabitTracker, DashboardStats, SubtestScore } from '@/types';
+import { SubtestScore, HabitTracker } from '@/types';
 
 export const calculateTotalScore = (scores: SubtestScore[]): number => {
   if (scores.length === 0) return 0;

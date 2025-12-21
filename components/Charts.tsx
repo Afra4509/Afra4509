@@ -11,7 +11,6 @@ interface ChartsProps {
 
 export default function Charts({ tryOuts }: ChartsProps) {
   const [selectedPlatform, setSelectedPlatform] = useState<string>('all');
-  const [selectedSubtest, setSelectedSubtest] = useState<SubtestType | 'all'>('all');
 
   const platforms = ['all', ...new Set(tryOuts.map(to => to.platform))];
 

@@ -1,6 +1,6 @@
 'use client';
 
-import { WeeklySchedule, StudyStatus, CategoryType, SubtestType } from '@/types';
+import { WeeklySchedule, StudyStatus, CategoryType } from '@/types';
 import { CheckCircle2, Circle, Clock } from 'lucide-react';
 import { formatDate } from '@/lib/utils';
 
