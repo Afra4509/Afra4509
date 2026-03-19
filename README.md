@@ -1,35 +1,25 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Afra+👋;ML+Engineer+%26+IoT+Developer;Building+Intelligent+Systems;Where+Data+Meets+Innovation+🚀)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d2137,100:00D9FF&height=280&section=header&text=Afra%20Fadhma%20Dinata&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20IoT%20Developer%20%7C%20Data%20Scientist&descColor=00D9FF&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,16,18,20&text=AEFERA%20TECH&animation=fadeIn&textBg=false&fontSize=52&fontColor=fff&fontAlignY=40&desc=ML%20Engineer%20%7C%20IoT%20Developer%20%7C%20Data%20Scientist&descAlignY=62&descSize=18&descColor=00D9FF)](https://github.com/Afra4509)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=🧠+Machine+Learning+Engineer;👁️+Computer+Vision+Specialist;🔧+IoT+%26+Embedded+Systems+Dev;📊+Data+Scientist+%26+Analyst;🚀+Edge+AI+Deployer)](https://github.com/Afra4509)
 
 <br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/afra-fadhma-dinata">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:afrafadmadinata@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>&nbsp;
-  <a href="https://github.com/Afra4509">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>&nbsp;
-  <a href="https://twitter.com/risolkecoa">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>&nbsp;
-  <a href="https://instagram.com/afrafadhma">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>&nbsp;
-  <a href="https://open.spotify.com/user/i4kfnw7moy6h19bmrkwliqcnn">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-  </a>
-</p>
+<a href="https://linkedin.com/in/afra-fadhma-dinata"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28"/></a>&ensp;
+<a href="mailto:afrafadmadinata@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" height="28"/></a>&ensp;
+<a href="https://github.com/Afra4509"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white&labelColor=171515" height="28"/></a>&ensp;
+<a href="https://twitter.com/risolkecoa"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white&labelColor=1D9BF0" height="28"/></a>&ensp;
+<a href="https://instagram.com/afrafadhma"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white&labelColor=E1306C" height="28"/></a>&ensp;
+<a href="https://open.spotify.com/user/i4kfnw7moy6h19bmrkwliqcnn"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white&labelColor=1DB954" height="28"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=Afra4509&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Afra4509&style=flat-square&color=00D9FF&label=Profile+Views" alt="Profile Views"/>
+&emsp;
+<img src="https://img.shields.io/github/followers/Afra4509?style=flat-square&color=00D9FF&labelColor=0D1117&label=Followers" alt="Followers"/>
 
 </div>
 
@@ -37,60 +27,51 @@
 
 ---
 
-## 🧬 About Me
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👤 About Me
 
 ```python
 class AfraFadhmaDinata:
-    """ML Engineer & IoT Developer from Indonesia 🇮🇩"""
-
-    def __init__(self):
-        self.name       = "Afra Fadhma Dinata"
-        self.role       = ["ML Engineer", "IoT Developer", "Data Scientist"]
-        self.location   = "Indonesia 🇮🇩"
-        self.languages  = ["Python", "R", "C++", "JavaScript"]
-
-    @property
-    def expertise(self):
-        return {
-            "🧠 AI/ML"          : ["TensorFlow", "PyTorch", "Scikit-learn"],
-            "👁️ Computer Vision" : ["OpenCV", "YOLO", "Image Processing"],
-            "📊 Data Science"    : ["Pandas", "NumPy", "Statistical Analysis"],
-            "🔧 IoT & Embedded"  : ["Arduino", "ESP32", "Raspberry Pi"],
-            "📈 Edge AI"         : ["Model Optimization", "On-device Inference"],
-        }
-
-    def philosophy(self):
-        return "Code with precision, innovate with purpose 🎯"
-
-me = AfraFadhmaDinata()
+    name     = "Afra Fadhma Dinata"
+    location = "Indonesia 🇮🇩"
+    roles    = [
+        "ML Engineer",
+        "IoT Developer",
+        "Data Scientist",
+    ]
+    focus    = [
+        "Advanced Computer Vision",
+        "Edge AI on Embedded Systems",
+        "Predictive Analytics & Modeling",
+        "Smart IoT Automation",
+    ]
+    motto    = "Code with precision, innovate with purpose 🎯"
 ```
 
-<br/>
+> *Building intelligent solutions that bridge machine learning, computer vision, and IoT to solve real-world problems.*
 
-> 💡 *Developing intelligent solutions that bridge machine learning, computer vision, and IoT to solve real-world problems with precision and purpose.*
+</td>
+<td width="45%" valign="top" align="center">
 
-<br/>
+<br/><br/>
 
-### 🎯 Currently Working On
+<img src="https://github-readme-stats.vercel.app/api?username=Afra4509&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&custom_title=GitHub+Stats&count_private=true&include_all_commits=true" width="100%"/>
 
-```
-🔬  Advanced Computer Vision & Real-time Object Detection
-🌐  IoT Smart Systems with Edge AI Deployment
-📊  Predictive Analytics & Statistical Modeling
-🤖  Optimizing ML Models for Microcontrollers
-```
-
-<br/>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -98,54 +79,59 @@ me = AfraFadhmaDinata()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 Machine Learning & AI
+**Machine Learning & AI**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+**Data Science**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🔧 IoT & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+**IoT & Hardware**
 
-### ⚙️ Dev Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+
+**Dev Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Afra4509&show_icons=true&theme=algolia&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&custom_title=⚡%20GitHub%20Stats&rank_icon=github&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afra4509&layout=compact&theme=algolia&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8&card_width=400" height="195" alt="Top Languages"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Afra4509&theme=github-dark-blue&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0D1117&sideLabels=aaaaaa&sideNums=ffffff&dates=555555" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afra4509&layout=compact&theme=github_dark&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afra4509&theme=algolia&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0D1117&sideLabels=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afra4509&custom_title=📊%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=1A2B3C&area=true&hide_border=true&radius=8" alt="Activity Graph" width="95%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Afra4509&custom_title=Contribution+Activity&bg_color=0D1117&color=00D9FF&line=0080FF&point=00D9FF&area_color=001a2e&area=true&hide_border=true&radius=6)
 
 </div>
 
@@ -155,71 +141,75 @@ me = AfraFadhmaDinata()
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Afra4509&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Afra4509&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🎖️ Key Achievements
+## 🎖️ Highlights
 
 <div align="center">
 
-| 🏅 Achievement | 📌 Details |
-|:---|:---|
-| 🥇 **30+ ML Models** | Deployed in production environments |
-| 👁️ **>95% Accuracy** | Computer Vision models for real-world tasks |
-| 🔧 **99.9% Uptime** | IoT Systems with ultra-reliable embedded solutions |
-| 📊 **Advanced Analytics** | Expert-level R & Python for statistical computing |
-| 🌐 **Edge AI** | Embedded inference on ESP32 & Raspberry Pi |
-| 🤖 **Full Pipeline** | Data → Model → Deployment → Monitoring |
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/30+-ML%20Models-00D9FF?style=for-the-badge" /><br/>
+      <sub>Deployed in production</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/%3E95%25-CV%20Accuracy-00D9FF?style=for-the-badge" /><br/>
+      <sub>Computer Vision models</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/99.9%25-IoT%20Uptime-00D9FF?style=for-the-badge" /><br/>
+      <sub>Embedded systems reliability</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Edge%20AI-On%20Device-00D9FF?style=for-the-badge" /><br/>
+      <sub>ESP32 & RPi inference</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🤝 Open to Collaborate
+## 🤝 Let's Collaborate
 
 <div align="center">
 
-*I'm always excited to work on impactful projects. Let's build something great together!*
+*Open to collaborations, research partnerships, and freelance projects.*
 
 <br/>
 
-| 🧠 Machine Learning | 👁️ Computer Vision | 🔧 IoT Development | 📊 Data Analytics | 🔬 Research |
-|:---:|:---:|:---:|:---:|:---:|
-| AI model development | Image processing & detection | Smart embedded systems | Statistical insights | Innovation projects |
-| NLP & classification | Real-time video analysis | ESP32 / Arduino / RPi | Dashboard & reporting | Academic collaboration |
+| Domain | What I Can Help With |
+|:-------:|:---|
+| 🧠 **Machine Learning** | Model architecture, training pipelines, deployment |
+| 👁️ **Computer Vision** | Object detection, image classification, real-time inference |
+| 🔧 **IoT Systems** | ESP32 / Arduino / RPi firmware, MQTT, sensor integration |
+| 📊 **Data Analytics** | Statistical modeling, dashboards, insights & reporting |
+| 🔬 **Research** | Academic projects, paper implementations, POC development |
 
 </div>
 
 ---
 
-## 📬 Let's Connect
-
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0d2137,100:0a0a0a&height=130&section=footer&reversal=false" width="100%"/>
 
-**📧 afrafadmadinata@gmail.com** &nbsp;|&nbsp; **🇮🇩 Indonesia**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afra-fadhma-dinata)
-[![Gmail](https://img.shields.io/badge/Gmail-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afrafadmadinata@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afra4509)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/risolkecoa)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/afrafadhma)
-[![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/i4kfnw7moy6h19bmrkwliqcnn)
+**"Building intelligent systems that bridge the physical and digital worlds"** 🚀
 
 <br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/afra-fadhma-dinata)&emsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:afrafadmadinata@gmail.com)&emsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Afra4509)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,16,18,20&section=footer" width="100%"/>
+<br/>
 
-*"Building intelligent systems that bridge the physical and digital worlds"* 🚀
-
-[![Visitor Count](https://komarev.com/ghpvc/?username=Afra4509&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Afra4509)
+<img src="https://komarev.com/ghpvc/?username=Afra4509&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
